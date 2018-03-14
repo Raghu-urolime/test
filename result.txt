@@ -3,30 +3,30 @@ Linux Malware Detect v1.6.2
             (C) 2017, Ryan MacDonald <ryan@rfxn.com>
 This program may be freely redistributed under the terms of the GNU GPL v2
 
-maldet(27671): {scan} signatures loaded: 15218 (12485 MD5 | 1954 HEX | 779 YARA | 0 USER)
-maldet(27671): {scan} building file list for /home/raghu/script/wordpress2/?, this might take awhile...
-maldet(27671): {scan} setting nice scheduler priorities for all operations: cpunice 19 , ionice 6
-maldet(27671): {scan} file list completed in 0s, found 16 files...
-maldet(27671): {scan} scan of /home/raghu/script/wordpress2/? (16 files) in progress...
-[1Gmaldet(27671): {scan} 1/16 files scanned: 0 hits 0 cleaned[1Gmaldet(27671): {scan} 2/16 files scanned: 0 hits 0 cleaned[1Gmaldet(27671): {scan} 3/16 files scanned: 0 hits 0 cleaned[1Gmaldet(27671): {scan} 4/16 files scanned: 0 hits 0 cleaned[1Gmaldet(27671): {scan} 5/16 files scanned: 0 hits 0 cleaned[1Gmaldet(27671): {scan} 6/16 files scanned: 0 hits 0 cleaned[1Gmaldet(27671): {scan} 7/16 files scanned: 0 hits 0 cleaned[1Gmaldet(27671): {scan} 8/16 files scanned: 0 hits 0 cleaned[1Gmaldet(27671): {scan} 9/16 files scanned: 0 hits 0 cleaned[1Gmaldet(27671): {scan} 10/16 files scanned: 0 hits 0 cleaned[1Gmaldet(27671): {scan} 11/16 files scanned: 0 hits 0 cleaned[1Gmaldet(27671): {scan} 12/16 files scanned: 0 hits 0 cleaned[1Gmaldet(27671): {scan} 13/16 files scanned: 0 hits 0 cleaned[1Gmaldet(27671): {scan} 14/16 files scanned: 0 hits 0 cleaned[1Gmaldet(27671): {scan} 15/16 files scanned: 0 hits 0 cleaned[1Gmaldet(27671): {scan} 16/16 files scanned: 0 hits 0 cleaned
+maldet(28787): {scan} signatures loaded: 15218 (12485 MD5 | 1954 HEX | 779 YARA | 0 USER)
+maldet(28787): {scan} building file list for /home/raghu/script/wordpress2/?, this might take awhile...
+maldet(28787): {scan} setting nice scheduler priorities for all operations: cpunice 19 , ionice 6
+maldet(28787): {scan} file list completed in 0s, found 16 files...
+maldet(28787): {scan} scan of /home/raghu/script/wordpress2/? (16 files) in progress...
+[1Gmaldet(28787): {scan} 1/16 files scanned: 0 hits 0 cleaned[1Gmaldet(28787): {scan} 2/16 files scanned: 0 hits 0 cleaned[1Gmaldet(28787): {scan} 3/16 files scanned: 0 hits 0 cleaned[1Gmaldet(28787): {scan} 4/16 files scanned: 0 hits 0 cleaned[1Gmaldet(28787): {scan} 5/16 files scanned: 0 hits 0 cleaned[1Gmaldet(28787): {scan} 6/16 files scanned: 0 hits 0 cleaned[1Gmaldet(28787): {scan} 7/16 files scanned: 0 hits 0 cleaned[1Gmaldet(28787): {scan} 8/16 files scanned: 0 hits 0 cleaned[1Gmaldet(28787): {scan} 9/16 files scanned: 0 hits 0 cleaned[1Gmaldet(28787): {scan} 10/16 files scanned: 0 hits 0 cleaned[1Gmaldet(28787): {scan} 11/16 files scanned: 0 hits 0 cleaned[1Gmaldet(28787): {scan} 12/16 files scanned: 0 hits 0 cleaned[1Gmaldet(28787): {scan} 13/16 files scanned: 0 hits 0 cleaned[1Gmaldet(28787): {scan} 14/16 files scanned: 0 hits 0 cleaned[1Gmaldet(28787): {scan} 15/16 files scanned: 0 hits 0 cleaned[1Gmaldet(28787): {scan} 16/16 files scanned: 0 hits 0 cleaned
 
-maldet(27671): {scan} scan completed on /home/raghu/script/wordpress2/?: files 16, malware hits 0, cleaned hits 0, time 1s
-maldet(27671): {scan} scan report saved, to view run: maldet --report 180314-0813.27671
+maldet(28787): {scan} scan completed on /home/raghu/script/wordpress2/?: files 16, malware hits 0, cleaned hits 0, time 0s
+maldet(28787): {scan} scan report saved, to view run: maldet --report 180314-0817.28787
 
-=================================================================
+ 123=================================================================
 Linux Malware Detect v1.6.2
             (C) 2002-2017, R-fx Networks <proj@rfxn.com>
             (C) 2017, Ryan MacDonald <ryan@rfxn.com>
 This program may be freely redistributed under the terms of the GNU GPL v2
 
-maldet(28134): {scan} signatures loaded: 15218 (12485 MD5 | 1954 HEX | 779 YARA | 0 USER)
-maldet(28134): {scan} building file list for /home/raghu/script/wordpress/?, this might take awhile...
-maldet(28134): {scan} setting nice scheduler priorities for all operations: cpunice 19 , ionice 6
-maldet(28134): {scan} file list completed in 0s, found 16 files...
-maldet(28134): {scan} scan of /home/raghu/script/wordpress/? (16 files) in progress...
-[1Gmaldet(28134): {scan} 1/16 files scanned: 0 hits 0 cleaned[1Gmaldet(28134): {scan} 2/16 files scanned: 0 hits 0 cleaned[1Gmaldet(28134): {scan} 3/16 files scanned: 0 hits 0 cleaned[1Gmaldet(28134): {scan} 4/16 files scanned: 0 hits 0 cleaned[1Gmaldet(28134): {scan} 5/16 files scanned: 0 hits 0 cleaned[1Gmaldet(28134): {scan} 6/16 files scanned: 0 hits 0 cleaned[1Gmaldet(28134): {scan} 7/16 files scanned: 0 hits 0 cleaned[1Gmaldet(28134): {scan} 8/16 files scanned: 0 hits 0 cleaned[1Gmaldet(28134): {scan} 9/16 files scanned: 0 hits 0 cleaned[1Gmaldet(28134): {scan} 10/16 files scanned: 0 hits 0 cleaned[1Gmaldet(28134): {scan} 11/16 files scanned: 0 hits 0 cleaned[1Gmaldet(28134): {scan} 12/16 files scanned: 0 hits 0 cleaned[1Gmaldet(28134): {scan} 13/16 files scanned: 0 hits 0 cleaned[1Gmaldet(28134): {scan} 14/16 files scanned: 0 hits 0 cleaned[1Gmaldet(28134): {scan} 15/16 files scanned: 0 hits 0 cleaned[1Gmaldet(28134): {scan} 16/16 files scanned: 0 hits 0 cleaned
+maldet(29251): {scan} signatures loaded: 15218 (12485 MD5 | 1954 HEX | 779 YARA | 0 USER)
+maldet(29251): {scan} building file list for /home/raghu/script/wordpress/?, this might take awhile...
+maldet(29251): {scan} setting nice scheduler priorities for all operations: cpunice 19 , ionice 6
+maldet(29251): {scan} file list completed in 0s, found 16 files...
+maldet(29251): {scan} scan of /home/raghu/script/wordpress/? (16 files) in progress...
+[1Gmaldet(29251): {scan} 1/16 files scanned: 0 hits 0 cleaned[1Gmaldet(29251): {scan} 2/16 files scanned: 0 hits 0 cleaned[1Gmaldet(29251): {scan} 3/16 files scanned: 0 hits 0 cleaned[1Gmaldet(29251): {scan} 4/16 files scanned: 0 hits 0 cleaned[1Gmaldet(29251): {scan} 5/16 files scanned: 0 hits 0 cleaned[1Gmaldet(29251): {scan} 6/16 files scanned: 0 hits 0 cleaned[1Gmaldet(29251): {scan} 7/16 files scanned: 0 hits 0 cleaned[1Gmaldet(29251): {scan} 8/16 files scanned: 0 hits 0 cleaned[1Gmaldet(29251): {scan} 9/16 files scanned: 0 hits 0 cleaned[1Gmaldet(29251): {scan} 10/16 files scanned: 0 hits 0 cleaned[1Gmaldet(29251): {scan} 11/16 files scanned: 0 hits 0 cleaned[1Gmaldet(29251): {scan} 12/16 files scanned: 0 hits 0 cleaned[1Gmaldet(29251): {scan} 13/16 files scanned: 0 hits 0 cleaned[1Gmaldet(29251): {scan} 14/16 files scanned: 0 hits 0 cleaned[1Gmaldet(29251): {scan} 15/16 files scanned: 0 hits 0 cleaned[1Gmaldet(29251): {scan} 16/16 files scanned: 0 hits 0 cleaned
 
-maldet(28134): {scan} scan completed on /home/raghu/script/wordpress/?: files 16, malware hits 0, cleaned hits 0, time 1s
-maldet(28134): {scan} scan report saved, to view run: maldet --report 180314-0813.28134
+maldet(29251): {scan} scan completed on /home/raghu/script/wordpress/?: files 16, malware hits 0, cleaned hits 0, time 1s
+maldet(29251): {scan} scan report saved, to view run: maldet --report 180314-0817.29251
 
-=================================================================
+ 123=================================================================
